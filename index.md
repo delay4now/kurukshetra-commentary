@@ -1,35 +1,31 @@
-# Kurukshetra Commentary (Anonymous)
+# Kurukshetra Commentary
 
 ## Intent
-This site contains brief, episode-by-episode commentary on the animated series *Kurukshetra: The Great War of Mahabharata*.
-The goal is to clarify context that may be lost in translation or compressed by the format, and to make the story more accessible to readers who did not grow up with the Mahabharata tradition.
+We believe the great epic Mahabharata is an excellent vehicle for understanding the world we live in from an Indian standpoint. The epic intertwines pragmatics, morality, and metaphysics; good and evil; means and ends; and much more.
 
-These notes are meant to be:
-- short and readable (not academic)
-- respectful of different interpretations
-- focused on context, terminology, and “what’s missing” rather than judging characters
+Fortunately, Netflix released in 2025 an 18-episode miniseries on the war at the end of the Mahabharata, along with flashbacks to earlier events. The series is animated, and each episode is about 25 minutes long.
 
-If you have suggestions or corrections, please share them with whoever sent you this link.
+Wikipedia: https://en.wikipedia.org/wiki/Kurukshetra:_The_Great_War_of_Mahabharata
 
----
+This webpage provides a short commentary on each episode—clarifying a few points that can be lost in translation or due to the limitations of the format—so as to make the series more accessible to those outside of India. In addition, we expand on broader ideas wherever the opportunity presents itself.
 
-## Pages
-1. [General notes](general-notes.md)
-2. [Episode 1](ep01.md)
-3. [Episode 2](ep02.md)
-4. [Episode 3](ep03.md)
-5. [Episode 4](ep04.md)
-6. [Episode 5](ep05.md)
-7. [Episode 6](ep06.md)
-8. [Episode 7](ep07.md)
-9. [Episode 8](ep08.md)
-10. [Episode 9](ep09.md)
-11. [Episode 10](ep10.md)
-12. [Episode 11](ep11.md)
-13. [Episode 12](ep12.md)
-14. [Episode 13](ep13.md)
-15. [Episode 14](ep14.md)
-16. [Episode 15](ep15.md)
-17. [Episode 16](ep16.md)
-18. [Episode 17](ep17.md)
-19. [Episode 18](ep18.md)
+## Contents
+- [General notes which is helpful to read before watching the series](general-notes.md)
+- [Episode 1 Commentary](ep01.md)
+- [Episode 2 Commentary](ep02.md)
+- [Episode 3 Commentary](ep03.md)
+- [Episode 4 Commentary](ep04.md)
+- [Episode 5 Commentary](ep05.md)
+- [Episode 6 Commentary](ep06.md)
+- [Episode 7 Commentary](ep07.md)
+- [Episode 8 Commentary](ep08.md)
+- [Episode 9 Commentary](ep09.md)
+- [Episode 10 Commentary](ep10.md)
+- [Episode 11 Commentary](ep11.md)
+- [Episode 12 Commentary](ep12.md)
+- [Episode 13 Commentary](ep13.md)
+- [Episode 14 Commentary](ep14.md)
+- [Episode 15 Commentary](ep15.md)
+- [Episode 16 Commentary](ep16.md)
+- [Episode 17 Commentary](ep17.md)
+- [Episode 18 Commentary](ep18.md)
