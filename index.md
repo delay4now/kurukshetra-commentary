@@ -5,7 +5,7 @@ We believe the great epic Mahabharata is an excellent vehicle for understanding 
 
 Fortunately, Netflix released in 2025 an 18-episode miniseries on the war at the end of the Mahabharata, along with flashbacks to earlier events. The series is animated, and each episode is about 25 minutes long.
 
-Wikipedia: https://en.wikipedia.org/wiki/Kurukshetra:_The_Great_War_of_Mahabharata
+Wikipedia: <https://en.wikipedia.org/wiki/Kurukshetra:_The_Great_War_of_Mahabharata>
 
 This webpage provides a short commentary on each episode—clarifying a few points that can be lost in translation or due to the limitations of the format—so as to make the series more accessible to those outside of India. In addition, we expand on broader ideas wherever the opportunity presents itself.
 
