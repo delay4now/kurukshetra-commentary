@@ -10,8 +10,8 @@ Wikipedia: <https://en.wikipedia.org/wiki/Kurukshetra:_The_Great_War_of_Mahabhar
 This webpage provides a short commentary on each episode—clarifying a few points that can be lost in translation or due to the limitations of the format—so as to make the series more accessible to those outside of India. In addition, we expand on broader ideas wherever the opportunity presents itself.
 
 ## Contents
-- [General notes which is helpful to read before watching the series](general-notes.md)
-- [Episode 1 Commentary](ep01.md)
+- <span style="background-color: yellow;">[General notes which is helpful to read before watching the series](general-notes.md)</span>
+- <span style="background-color: yellow;">[Episode 1 Commentary](ep01.md)</span>
 - [Episode 2 Commentary](ep02.md)
 - [Episode 3 Commentary](ep03.md)
 - [Episode 4 Commentary](ep04.md)
