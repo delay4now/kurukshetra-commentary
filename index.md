@@ -12,7 +12,7 @@ This webpage provides a short commentary on each episode—clarifying a few poin
 ## Contents
 - <span style="background-color: yellow;">[General notes which is helpful to read before watching the series](general-notes.md)</span>
 - <span style="background-color: yellow;">[Episode 1 Commentary](ep01.md)</span>
-- [Episode 2 Commentary](ep02.md)
+- <span style="background-color: yellow;">[Episode 2 Commentary](ep02.md)</span>
 - [Episode 3 Commentary](ep03.md)
 - [Episode 4 Commentary](ep04.md)
 - [Episode 5 Commentary](ep05.md)
